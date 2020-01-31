@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DeprecatedFileStream-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream",
+		"line",
+		"limitingBlock",
+		"position"
+	],
+	"name" : "LimitingLineStreamWrapper",
+	"type" : "normal"
+}

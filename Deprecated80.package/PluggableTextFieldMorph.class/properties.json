@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "PluggableTextMorph",
+	"category" : "Deprecated80",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"converter",
+		"ghostText",
+		"default",
+		"entryCompletion",
+		"endRow",
+		"textMorphClass",
+		"textFont"
+	],
+	"name" : "PluggableTextFieldMorph",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+deprecation
+isDeprecated
+
+	^ true

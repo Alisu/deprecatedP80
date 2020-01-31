@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CollectionElement",
+	"category" : "Deprecated80",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SetElement",
+	"type" : "normal"
+}

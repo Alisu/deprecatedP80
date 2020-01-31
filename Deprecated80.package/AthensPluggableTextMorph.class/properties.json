@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PluggableTextMorph",
+	"category" : "Deprecated80",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AthensPluggableTextMorph",
+	"type" : "normal"
+}

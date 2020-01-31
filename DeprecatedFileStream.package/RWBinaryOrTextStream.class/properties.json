@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ReadWriteStream",
+	"category" : "DeprecatedFileStream-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isBinary"
+	],
+	"name" : "RWBinaryOrTextStream",
+	"type" : "normal"
+}

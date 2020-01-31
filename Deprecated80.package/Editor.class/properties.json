@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TextEditor",
+	"category" : "Deprecated80",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Editor",
+	"type" : "normal"
+}

@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "StandardFileStream",
+	"category" : "DeprecatedFileStream-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Cr",
+		"CrLf",
+		"Lf",
+		"LineEndDefault",
+		"LineEndStrings",
+		"LookAheadCount"
+	],
+	"instvars" : [
+		"converter",
+		"lineEndConvention",
+		"wantsLineEndConversion"
+	],
+	"name" : "MultiByteFileStream",
+	"type" : "normal"
+}

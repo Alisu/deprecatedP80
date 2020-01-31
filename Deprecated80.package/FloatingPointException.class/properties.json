@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ArithmeticError",
+	"category" : "Deprecated80",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FloatingPointException",
+	"type" : "normal"
+}
